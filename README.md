@@ -12,6 +12,7 @@ tools to generate several diagnosis plots to help users to choose the statistica
 structure. *dbnorm* includes several statistical models such as, ComBat(parametric and non-parametric)-model [PMID:16632515]  from sva package [PMID:22257669] ,that was already in use for metabolomics data normalization, and ber function [DOI:10.1007/s12561-013-9081-1], priorly developed for microarray gene expression data, that we propose here as a new approach for correction of drift across batch in metabolomics datasets. 
 ## A glimpse into the "dbnorm"
 ![image](https://user-images.githubusercontent.com/37698532/69905569-a404ae80-13b5-11ea-9305-69211ea124cd.png)
+The figures presented here is adopted from paper with doi: https://doi.org/10.1101/2020.01.22.914051
 ## Getting started
 ### Step1: installation
 Install package dependencies in CRAN and Bioconductor via codes bellow:
