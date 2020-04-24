@@ -4,7 +4,7 @@
 
 ![](images/Logo.png)
 *dbnorm* contains several functions which allow visualization and 
-removal of technical heterogeneity from large metabolomics dataset. By including advanced statistical tools, the *dbnorm* package allows user to inspect the structure and quality of large metabolomics datasets both in macroscopic and microscopic scales at the sample batch level and metabolic feature level, respectively.
+removal of technical heterogeneity from large metabolomics dataset. By including advanced statistical tools, *dbnorm* helps user to inspect the structure and quality of large metabolomics datasets both in macroscopic and microscopic scales at the sample batch level and metabolic feature level, respectively.
 It allows users to efficiently correct drift across batch and to adjust large metabolomics datasets for technical variation which helps improving the estimation of the biological mechanisms underlying disease condition or medical state.
 *dbnorm* includes 11 distinct functions for pre-processing of data and estimation of missing values, 
 conventional functions for batch effect correction based on statistical models, as well as functions using advanced statistical 
