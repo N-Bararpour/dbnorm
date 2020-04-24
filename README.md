@@ -1,9 +1,9 @@
 # dbnorm (V-0.1)
 
-A package for drift across batches normalization and visualization
+**A package for drift across batches normalization and visualization**
 
 ![](images/Logo.png)
-*dbnorm* contains R functions which allow visualization and 
+*dbnorm* contains several functions which allow visualization and 
 removal of technical heterogeneity from large metabolomics dataset. By including advanced statistical tools, the *dbnorm* package allows user to inspect the structure and quality of large metabolomics datasets both in macroscopic and microscopic scales at the sample batch level and metabolic feature level, respectively.
 It allows users to efficiently correct drift across batch and to adjust large metabolomics datasets for technical variation which helps improving the estimation of the biological mechanisms underlying disease condition or medical state.
 *dbnorm* includes 11 distinct functions for pre-processing of data and estimation of missing values, 
